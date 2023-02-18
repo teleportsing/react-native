@@ -21,7 +21,7 @@
     "@react-navigation/native-stack": "6.9.0",
     "react-native-screens": "~3.18.0",
     "react-native-safe-area-context": "4.3.1",
-    "undefined": "react-navigation/native"
+    "react-navigation/native": ""
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
