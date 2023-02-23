@@ -1,5 +1,5 @@
 # react-native
 react-native
 
-#install
+# install
 yarn install
